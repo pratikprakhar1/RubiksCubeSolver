@@ -1,0 +1,12 @@
+# ninja log v6
+5	959	1720215226561134392	CMakeFiles/RubiksCubeSolver.dir/main.cpp.o	72114e3314304145
+5	701	1719847500193062728	CMakeFiles/RubiksCubeSolver.dir/RubiksCube.cpp.o	5440712b183a40cd
+17	922	1720015429190620995	CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCube.cpp.o	ca2cb6ffce5f97dc
+959	1092	1720215227514486550	RubiksCubeSolver	becb7f2dd5b2b393
+17	815	1720015429191068752	CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCube3dArray.cpp.o	eac570e2748038a9
+17	820	1720015429191464134	CMakeFiles/RubiksCubeSolver.dir/Model/RubiksCubeBitboard.cpp.o	13d4c1e0a28e58fb
+17	817	1720015429191273714	CMakeFiles/RubiksCubeSolver.dir/Model/RubicsCube1dArray.cpp.o	47e3d3192ce06b9e
+7	743	1720215785198240665	CMakeFiles/RubiksCubeSolver.dir/main.cpp.o	72114e3314304145
+743	894	1720215785934359037	RubiksCubeSolver	becb7f2dd5b2b393
+6	809	1720215805968835483	CMakeFiles/RubiksCubeSolver.dir/main.cpp.o	72114e3314304145
+809	941	1720215806771846692	RubiksCubeSolver	becb7f2dd5b2b393
